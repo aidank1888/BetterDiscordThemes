@@ -1,4 +1,4 @@
-# BetterDiscordThemes
+# BetterDiscordThemes&Plugins
 
 Please download betterdiscord before adding themes.
 (https://betterdiscord.app)
